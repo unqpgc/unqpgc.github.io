@@ -5,7 +5,6 @@ import os
 PAGES = [
     ('Principal', 'index'),
     ('Programa y bibliografía', 'programa-y-bibliografia'),
-    ('Cronograma', 'cronograma'),
     ('Instancias de evaluación', 'instancias-de-evaluacion'),
     ('Clases teóricas', 'clases'),
     ('Prácticas', 'practicas'),

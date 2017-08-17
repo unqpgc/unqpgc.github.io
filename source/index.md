@@ -7,10 +7,22 @@ Licenciatura en Informática con Orientación en Desarrollo de Software
 
 Universidad Nacional de Quilmes
 
+Horarios
+--------
+
+Jueves de 18:00 a 22:00.
+
+Aula 331.
+
 Docentes
-========
+--------
 
-Pablo Barenbaum <Xnes@gmail.com> reemplazando "X" por "foo".
+Pablo Barenbaum
 
-Lista de correo: <lds-est-X@listas.unq.edu.ar> reemplazando "X" por "parse".
+<Xnes@gmail.com> reemplazando "X" por "foo".
+
+Lista de correo
+---------------
+
+<lds-est-X@listas.unq.edu.ar> reemplazando "X" por "parse".
 

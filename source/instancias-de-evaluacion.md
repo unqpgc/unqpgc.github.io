@@ -1,6 +1,8 @@
+Instancias de evaluación
+========================
 
 Parciales
-=========
+---------
 
 **Primer parcial:** jueves 12 de octubre. Devolución de notas: jueves 26 de octubre.
 
@@ -11,7 +13,7 @@ Parciales
 **Recuperatorio del segundo parcial:** jueves 14 de diciembre. Devolución de notas: lunes 18 de diciembre.
 
 Trabajos prácticos
-==================
+------------------
 
 **Presentación del enunciado del primer TP:** jueves 14 de septiembre.
 
@@ -24,7 +26,7 @@ Trabajos prácticos
 **Fecha límite para reentregas de ambos TPs:** jueves 14 de diciembre.
 
 Condiciones de evaluación y aprobación
-======================================
+--------------------------------------
 
 * Los parciales son a libro abierto y se califican con nota numérica.
 * Los TPs se hacen individualmente o en pareja, y se califican como aprobado o desaprobado.
