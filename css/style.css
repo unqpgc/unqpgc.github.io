@@ -23,6 +23,7 @@ body {
 }
 
 h1 {
+    font-family: Oxygen, sans-serif;
 	font-weight: normal;
 	background: var(--color-fondo);
 	color: white;
@@ -32,6 +33,7 @@ h1 {
 }
 
 h2, h3, li, p {
+    font-family: Oxygen, sans-serif;
 	margin-left: 2%;
 }
 
