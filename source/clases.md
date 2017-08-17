@@ -2,8 +2,8 @@ Clases teóricas
 ===============
 
 * 17/08 [Clase 01](files/clase01_introduccion.pdf). Introducción a la materia. Intérpretes y compiladores. Introducción a los lenguajes formales.
-* 24/08 Clase 02. lexers y autómatas.
-* 31/08 Clase 03. lenguajes regulares y normalización de gramáticas.
+* 24/08 Clase 02. Lexers y autómatas.
+* 31/08 Clase 03. Lenguajes regulares y normalización de gramáticas.
 * 07/09 *(Sin clases).*
 * 14/09 Clase 04. Análisis sintáctico descendente. **[Presentación del TP1]**.
 * 21/09 *(Asueto día del estudiante).*
