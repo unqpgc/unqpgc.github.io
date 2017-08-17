@@ -1,0 +1,82 @@
+
+html {
+	height: 100%;
+}
+
+body {
+	margin: 0 0 0 0;
+	background-image: url("img/babel.png");
+	background: #222;
+}
+
+.title {
+	background: black;
+	color: white;
+	text-align: left;
+	margin: 0;
+	padding: 2%;
+	font-weight: bold;
+}
+
+h1 {
+	font-weight: normal;
+	background: #222;
+	color: white;
+	padding: 1%;
+	margin: 0;
+	text-align: right;
+}
+
+h2, h3, li, p {
+	margin-left: 2%;
+}
+
+li {
+	padding: .5%;
+}
+
+body div {
+	margin: 0 auto;
+	display: block;
+}
+
+#menu {
+	width: 17%;
+	padding-top: 4%;
+	padding-right: 3%;
+	float: left;
+	background: #222;
+	text-align: right;
+}
+
+#menu a {
+	color: white;
+	text-decoration: none;
+}
+
+#menu a:hover {
+	color: yellow;
+}
+
+#content {
+	min-height: 600px;
+	width: 80%;
+	padding: 0;
+	float: right;
+	background: white;
+}
+
+#content p {
+	padding-left: 1%;
+}
+
+#content a {
+	color: blue;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#content a:hover {
+	color: yellow;
+}
+
