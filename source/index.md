@@ -12,7 +12,7 @@ Horarios
 
 Jueves de 18:00 a 22:00.
 
-Aula 331.
+Aula CyT1.
 
 Docentes
 --------
