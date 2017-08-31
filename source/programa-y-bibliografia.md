@@ -29,10 +29,10 @@ Complementaria
 
 ### Compilación de lenguajes funcionales y orientados a objetos
 
-Simon Peyton Jones. *The Implementation of Functional Programming Languages*. Prentice Hall, 1987.
-Christian Queinnec. *LiSP in Small Pieces*.
-Guy L. Steele. *RABBIT: A Compiler for SCHEME*.
-Adele Goldberg, David Rodson. *Smalltalk-80: The Language and Its Implementation*.
+* Simon Peyton Jones. *The Implementation of Functional Programming Languages*. Prentice Hall, 1987.
+* Christian Queinnec. *LiSP in Small Pieces*.
+* Guy L. Steele. *RABBIT: A Compiler for SCHEME*.
+* Adele Goldberg, David Rodson. *Smalltalk-80: The Language and Its Implementation*.
 
 ### Sistemas de tipos
 

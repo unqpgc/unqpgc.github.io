@@ -19,10 +19,9 @@ Docentes
 
 Pablo Barenbaum
 
-<Xnes@gmail.com> reemplazando "X" por "foo".
+foones *at* gmail *dot* com
 
 Lista de correo
 ---------------
 
-<lds-est-X@listas.unq.edu.ar> reemplazando "X" por "parse".
-
+lds-est-parse *at* listas *dot* unq *dot* edu *dot* ar
