@@ -8,6 +8,7 @@ PAGES = [
     ('Instancias de evaluación', 'instancias-de-evaluacion'),
     ('Clases teóricas', 'clases'),
     ('Prácticas', 'practicas'),
+    ('Trabajos prácticos', 'tps'),
 ]
 
 def menu():
