@@ -5,7 +5,7 @@ Clases teóricas
 * 24/08 [Clase 02](files/clase02_lexers_y_automatas.pdf). Lexers y autómatas.
 * 31/08 [Clase 03](files/clase03_lenguajes_regulares_y_normalizacion_de_gramaticas.pdf). Lenguajes regulares y normalización de gramáticas.
 * 07/09 *(Sin clases).*
-* 14/09 Clase 04. Análisis sintáctico descendente. **[Presentación del TP1]**.
+* 14/09 [Clase 04](files/clase04_analisis_sintactico_descendente.pdf). Análisis sintáctico descendente. **[Presentación del TP1]**.
 * 21/09 *(Asueto día del estudiante).*
 * 28/09 Clase 05. Análisis sintáctico ascendente.
 * 05/10 Consultas/repaso.
