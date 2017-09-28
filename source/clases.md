@@ -7,7 +7,7 @@ Clases teóricas
 * 07/09 *(Sin clases).*
 * 14/09 [Clase 04](files/clase04_analisis_sintactico_descendente.pdf). Análisis sintáctico descendente. **[Presentación del TP1]**.
 * 21/09 *(Asueto día del estudiante).*
-* 28/09 Clase 05. Análisis sintáctico ascendente.
+* 28/09 [Clase 05](files/clase05_analisis_sintactico_ascendente.pdf). Análisis sintáctico ascendente.
 * 05/10 Consultas/repaso.
 * 12/10 **[Primer parcial]**. **[Entrega del TP1]**.
 * 19/10 Clase 06. Intérpretes.

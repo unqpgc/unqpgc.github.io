@@ -5,3 +5,4 @@ Prácticas (guías de ejercicios)
 * [Práctica 2](files/practica02.pdf) - Lenguajes regulares.
 * [Práctica 3](files/practica03.pdf) - Normalización de gramáticas.
 * [Práctica 4](files/practica04.pdf) - Análisis sintáctico descendente.
+* [Práctica 5](files/practica05.pdf) - Análisis sintáctico ascendente.
