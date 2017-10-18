@@ -9,8 +9,8 @@ Clases teóricas
 * 21/09 *(Asueto día del estudiante).*
 * 28/09 [Clase 05](files/clase05_analisis_sintactico_ascendente.pdf). Análisis sintáctico ascendente.
 * 05/10 Consultas/repaso.
-* 12/10 **[Primer parcial]**. **[Entrega del TP1]**.
-* 19/10 [Clase 06](files/clase06_interpretes.pdf). Intérpretes.
+* 12/10 **[Primer parcial]**.
+* 19/10 [Clase 06](files/clase06_interpretes.pdf). Intérpretes. **[Entrega del TP1]**.
 * 26/10 Clase 07. Inferencia de tipos. **[Presentación del TP2]**.
 * 02/11 Clase 08. Generación de código intermedio.
 * 09/11 Clase 09. Análisis estático y optimización.
