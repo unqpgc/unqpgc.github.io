@@ -6,3 +6,4 @@ Prácticas (guías de ejercicios)
 * [Práctica 3](files/practica03.pdf) - Normalización de gramáticas.
 * [Práctica 4](files/practica04.pdf) - Análisis sintáctico descendente.
 * [Práctica 5](files/practica05.pdf) - Análisis sintáctico ascendente.
+* [Práctica 6](files/practica06.pdf) - Interpretación.
