@@ -17,7 +17,7 @@ Trabajos prácticos
 
 **Presentación del enunciado del primer TP:** jueves 14 de septiembre.
 
-**Entrega del primer TP:** jueves 12 de octubre.
+**Entrega del primer TP:** jueves 19 de octubre.
 
 **Presentación del enunciado del segundo TP:** jueves 26 de octubre.
 
