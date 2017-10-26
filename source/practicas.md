@@ -7,3 +7,4 @@ Prácticas (guías de ejercicios)
 * [Práctica 4](files/practica04.pdf) - Análisis sintáctico descendente.
 * [Práctica 5](files/practica05.pdf) - Análisis sintáctico ascendente.
 * [Práctica 6](files/practica06.pdf) - Interpretación.
+* [Práctica 7](files/practica07.pdf) - Tipos y unificación. [Reglas de tipado e inferencia](files/reglas_inferencia.pdf) 
