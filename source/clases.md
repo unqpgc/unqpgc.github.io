@@ -12,7 +12,7 @@ Clases teóricas
 * 12/10 **[Primer parcial]**.
 * 19/10 [Clase 06](files/clase06_interpretes.pdf). Intérpretes. [(Descargar intérpretes en Haskell para programar)](files/interpretes.tar.gz). **[Entrega del TP1]**.
 * 26/10 [Clase 07](files/clase07_inferencia_de_tipos.pdf). Inferencia de tipos. **[Presentación del TP2]**.
-* 02/11 Clase 08. Generación de código intermedio.
+* 02/11 [Clase 08](files/clase08_generacion_de_codigo.pdf). Generación de código intermedio.
 * 09/11 Clase 09. Análisis estático y optimización.
 * 16/11 Clase 10. Asignación de registros y manejo automático de memoria.
 * 23/11 Consultas/repaso. **[Entrega del TP2]**.
