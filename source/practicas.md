@@ -9,3 +9,4 @@ Prácticas (guías de ejercicios)
 * [Práctica 6](files/practica06.pdf) - Interpretación.
 * [Práctica 7](files/practica07.pdf) - Tipos y unificación. [Reglas de tipado e inferencia](files/reglas_inferencia.pdf) 
 * [Práctica 8](files/practica08.pdf) - Generación de código intermedio.
+* [Práctica 9](files/practica09.pdf) - Análisis de flujo de datos.
