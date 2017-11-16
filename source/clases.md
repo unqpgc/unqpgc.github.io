@@ -14,7 +14,7 @@ Clases teóricas
 * 26/10 [Clase 07](files/clase07_inferencia_de_tipos.pdf). Inferencia de tipos. **[Presentación del TP2]**.
 * 02/11 [Clase 08](files/clase08_generacion_de_codigo.pdf). Generación de código intermedio.
 * 09/11 [Clase 09](files/clase09_analisis_estatico.pdf). Análisis estático y optimización.
-* 16/11 Clase 10. Asignación de registros y manejo automático de memoria.
+* 16/11 [Clase 10](files/clase10_registros_y_gc.pdf). Asignación de registros y manejo automático de memoria.
 * 23/11 Consultas/repaso. **[Entrega del TP2]**.
 * 30/11 **[Segundo parcial]**.
 * 07/12 **[Recuperatorio del primer parcial]**.
