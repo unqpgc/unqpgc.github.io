@@ -25,18 +25,17 @@ def menu():
 def generate(title, page):
     print('Generando {title} ({page})'.format(title=title, page=page))
 
-    f = open('template.html', 'r')
-    html = f.read()
-    f.close()
+    with open('template.html', 'r') as f:
+        html = f.read()
 
-    content = os.popen('pandoc {page}.md'.format(page=page)).read()
+    with open('{page}.html'.format(page=page)) as f:
+        content = f.read()
 
     html = html.replace('$MENU$', menu())
     html = html.replace('$CONTENT$', content)
 
-    f = open('../{page}.html'.format(page=page), 'w')
-    f.write(html)
-    f.close()
+    with open('../{page}.html'.format(page=page), 'w') as f:
+        f.write(html)
 
 if __name__ == '__main__':
     for title, page in PAGES:

@@ -1,6 +1,7 @@
 :root{
-  --color-fondo-titulo: #400060;
-  --color-fondo: #800080;
+  --color-fondo-titulo: #001020;
+  --color-fondo: #002040;
+  --color-fondo-h1: #004080;
 }
 
 html {
@@ -25,11 +26,11 @@ body {
 h1 {
     font-family: Oxygen, sans-serif;
 	font-weight: normal;
-	background: var(--color-fondo);
+	background: var(--color-fondo-h1);
 	color: white;
 	padding: 1%;
 	margin: 0;
-	text-align: right;
+	text-align: left;
 }
 
 h2, h3, li, p {
@@ -49,10 +50,10 @@ body div {
 #menu {
 	width: 17%;
 	padding-top: 4%;
-	padding-right: 3%;
+	padding-left: 3%;
 	float: left;
 	background: var(--color-fondo);
-	text-align: right;
+	text-align: left;
 }
 
 #menu a {
@@ -82,6 +83,6 @@ body div {
 }
 
 #content a:hover {
-	color: var(--color-fondo);
+	color: red;
 }
 
