@@ -368,7 +368,8 @@ private:
 };
 
 Reader::Reader(const string& filename) :
-        _is(*new ifstream(filename)), _filename(filename), _row(1), _col(1)
+        _is(*new ifstream(filename.c_str())), _filename(filename),
+	_row(1), _col(1)
 {
         if (!_is.good()) {
                 fail("File \"" + filename + "\" does not exist."); 
