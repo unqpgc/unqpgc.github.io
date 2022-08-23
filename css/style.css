@@ -2,10 +2,6 @@
   --color-fondo-titulo: #001020;
   --color-fondo: #002040;
   --color-fondo-h1: #004080;
-
-  --color-fondo-titulo: #002010;
-  --color-fondo: #004020;
-  --color-fondo-h1: #008040;
 }
 
 html {
@@ -90,3 +86,8 @@ body div {
 	color: red;
 }
 
+.feriado {
+	color: white;
+	background: #606060;
+    padding: 5px;
+}
